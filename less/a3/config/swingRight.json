@@ -1,0 +1,10 @@
+{
+	"name":"swingRight",
+	"type":"attention",
+	"origin":"left center",
+	"keyframes":{
+		"0%":{"transform":{"rotate3d":[0, 0, 1, "0deg"]}},
+		"50%":{"transform":{"rotate3d":[0, 0, 1, "30deg"]}},
+		"100%":{"transform":{"rotate3d":[0, 0, 1, "0deg"]}}
+	}
+}

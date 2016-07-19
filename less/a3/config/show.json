@@ -1,0 +1,8 @@
+{
+	"name":"show",
+	"type":"in",
+	"keyframes":{
+		"0%":{"opacity":0},
+		"50%":{"opacity":1}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"name":"moveLeft2Right3",
+	"type":"in",
+	"keyframes":{
+		"0%":{"transform":"none"},
+		"100%":{"transform":{"translate3d":["53%", 0, 0]}}
+	}
+}
